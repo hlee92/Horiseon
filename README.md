@@ -16,3 +16,7 @@ The goal of this challege/project was to make changes or add to the provided HTM
 GitHub Repository: https://github.com/hlee92/Horiseon
 
 Deployed: https://hlee92.github.io/Horiseon/
+
+
+![Horiseon_index html](https://user-images.githubusercontent.com/91634095/155867976-e68e1d45-4030-40b1-98cf-a24c44477aa3.png)
+
