@@ -11,4 +11,5 @@ The goal of this challege/project was to make changes or add to the provided HTM
 
 
 GitHub Repository: https://github.com/hlee92/Horiseon
+
 Deployed: https://hlee92.github.io/Horiseon/
