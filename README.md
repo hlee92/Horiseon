@@ -1,6 +1,7 @@
 # Horiseon
 
 Code Refactor 
+
 The goal of this challege/project was to make changes or add to the provided HTML and CSS without altering the functionality and appearance of the website. 
 
 1. Changed the name of the title to something more descriptive than "Website".
