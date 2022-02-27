@@ -11,6 +11,8 @@ The goal of this challege/project was to make changes or add to the provided HTM
 5. Replaced and added words with ones that would were vital to the functionality of the code. For example, replacing "class" with "Id" and adding class="". 
 
 
+
+
 GitHub Repository: https://github.com/hlee92/Horiseon
 
 Deployed: https://hlee92.github.io/Horiseon/
